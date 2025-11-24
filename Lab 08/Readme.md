@@ -1,3 +1,6 @@
+[Lab 08 Linear Regression.pdf](https://github.com/user-attachments/files/23700897/Lab.08.Linear.Regression.pdf)
+
+
 ## Classifier Assumptions – Summary
   
 k-Nearest Neighbors (k-NN)
@@ -19,3 +22,4 @@ Random Forest
 - Assumes trees trained on different subsets reduce variance.
 - No assumption of linearity.
 - Assumes enough trees lead to stable predictions.
+
